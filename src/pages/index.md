@@ -3,7 +3,7 @@ templateKey: index-page
 title: Dan Hauger Music
 image: /img/fire-taps.jpg
 heading: Great Music for a Great World
-subheading: With Great Music Comes Great Responsibility
+subheading: We are the music makers and we are the dreamers of dreams
 mainpitch:
   title: Why Dan Hauger Music
   description: Because Dan is ALSOME!!!
