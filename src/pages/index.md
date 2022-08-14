@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dan Hauger Music
-image: /img/all-smiles.png
+image: /img/fire-taps.jpg
 heading: Great Music for a Great World
 subheading: With Great Music Comes Great Responsibility
 mainpitch:
