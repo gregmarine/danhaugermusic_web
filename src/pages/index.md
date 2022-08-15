@@ -21,11 +21,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: TBD
-    image: /img/products-grid3.jpg
+    image: /img/all-smiles.png
   image2:
     alt: TBD
-    image: /img/blog-index.jpg
+    image: /img/all-smiles.png
   image3:
     alt: TBD
-    image: /img/flavor_wheel.jpg
+    image: /img/all-smiles.png
 ---
