@@ -9,7 +9,9 @@ mainpitch:
   description: Because Dan is ALSOME!!!
 description: Words and stuff
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/louis-and-maynard.jpg
+      text: TBD
   heading: What we offer
   description: Blah
 main:
