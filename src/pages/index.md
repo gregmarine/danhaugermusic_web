@@ -7,27 +7,38 @@ subheading: We are the music makers and we are the dreamers of dreams
 mainpitch:
   title: Why Dan Hauger Music
   description: Because Dan is ALSOME!!!
-description: Words and stuff
+description: Trumpet/Flugelhorn
 intro:
   blurbs:
     - image: /img/louis-and-maynard.jpg
-      text: TBD
-  heading: What we offer
-  description: Blah
+      text: Maynard and Louis
+  heading: Influence
+  description: |
+    Some of the trumpet players that have influenced me.
+    Maynard Ferguson
+    David Jones
+    Bill Chase
+    Chuck Mangione
+    Chuck Parrish
+    Dizzy Gillespie
+    Wiff Rudd
+    Mark Zauss
+    Arturo Sandouval
+    Alan Vizzutti
+    Dalvin Boone
+    Louis Armstrong
+    Todd Wideman
+    Eric Thornbury
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great music with no compromises
+  description: There is no compromise.  Respect the music and expect greatness.
   image1:
-    alt: TBD
+    alt: All Smiles
     image: /img/all-smiles.png
   image2:
-    alt: TBD
-    image: /img/all-smiles.png
+    alt: My favorite painting.  Created by my daughter
+    image: /img/joe.jpg
   image3:
-    alt: TBD
-    image: /img/all-smiles.png
+    alt: Musical border
+    image: /img/music-border.webp
 ---
