@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dan Hauger Music
-image: /img/fire-taps.jpg
+image: /img/joe.jpg
 heading: Great Music for a Great World
 subheading: We are the music makers and we are the dreamers of dreams
 mainpitch:
