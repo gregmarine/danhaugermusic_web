@@ -1,7 +1,7 @@
 ---
 heading: Rehearsal time!
-path: /products
-templateKey: product-page
+path: /gallery
+templateKey: gallery-page
 title: For the love of music!
 image: /img/music-border.webp
 description: Always ready for rehearsal.
