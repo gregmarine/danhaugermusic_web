@@ -2,11 +2,11 @@
 templateKey: index-page
 title: Dan Hauger Music
 image: /img/joe.jpg
-heading: Great Music for a Great World
+heading: Dan Hauger
 subheading: We are the music makers and we are the dreamers of dreams
 mainpitch:
-  title: Why Dan Hauger Music
-  description: Because Dan is ALSOME!!!
+  title: Great music for a great world
+  description: Let the music rise
 description: Trumpet/Flugelhorn
 intro:
   blurbs:
