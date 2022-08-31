@@ -29,6 +29,18 @@ intro:
     Louis Armstrong
     Todd Wideman
     Eric Thornbury
+
+    Some of the music educators that have influenced me.
+    Deborah Crnkovich
+    Cheryl Wilkerson
+    Ken Strieby
+    Lisa Lain
+    Dave Marcotte
+    Dave Booth
+    Doug Keiser
+    John Boyd
+    Randy Mitchell
+    Paul Bro
 main:
   heading: Great music with no compromises
   description: There is no compromise.  Respect the music and expect greatness.
