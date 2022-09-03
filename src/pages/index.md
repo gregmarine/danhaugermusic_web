@@ -41,6 +41,8 @@ intro:
     John Boyd
     Randy Mitchell
     Paul Bro
+    Fernando Frank
+    Fernando Vera
 main:
   heading: Great music with no compromises
   description: There is no compromise.  Respect the music and expect greatness.
