@@ -12,7 +12,7 @@ intro:
   blurbs:
     - image: /img/louis-and-maynard.jpg
       text: Maynard and Louis
-  heading: Influence
+  heading: Influences
   description: |
     Some of the trumpet players that have influenced me.
     Maynard Ferguson
