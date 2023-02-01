@@ -11,7 +11,7 @@ description: Trumpet/Flugelhorn
 intro:
   blurbs:
     - image: /img/qrcode.jpg
-      text: QR with my contact information
+      text: QR Code with my contact information
   heading: Influences
   description: |
     Some of the trumpet players that have influenced me.
