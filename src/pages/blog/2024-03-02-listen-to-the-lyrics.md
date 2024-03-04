@@ -56,7 +56,7 @@ Middle school kids can lack that discernment as well as a taste in music.
 
 One of my students approached me a couple of weeks ago and asked if I could play Gnat by Eminem.
 
-I am not opposed to playing music that I never listen to.  cI enjoy playing music I am not familiar with because it broadens my listening horizons.  You never know if I get picked up to play for a Barvarian rap/polka band that plays an eclectic blend of Rush, Yes, Weird Al Yankovic, and ABBA.  Ya never know.
+I am not opposed to playing music that I never listen to.  Actually, I enjoy playing music I am not familiar with because it broadens my listening horizons.  You never know if I get picked up to play for a Barvarian rap/polka band that plays an eclectic blend of Rush, Yes, Weird Al Yankovic, and ABBA.  Ya never know.
 
 I looked up Gnat by Eminem, on my personal computer (not the school computer) and listened while watching the words zip by.
 
