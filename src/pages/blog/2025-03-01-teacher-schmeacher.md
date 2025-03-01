@@ -15,7 +15,7 @@ tags:
 When people learn about the three major career paths I have enjoyed, I usually get the following reactions.
 
 1. “Oh, you were a firefighter. I could never do that!”
-2. “Oh, you are a trumpet player.  I used to play fourth chair harmonium in my posts econdary grammar school when I was in kindergarten.”
+2. “Oh, you are a trumpet player.  I used to play fourth chair harmonium in my post secondary grammar school when I was in kindergarten.”
 3. “Oh, you taught middle school band. ARE YOU CRAZY?”
 
 My responses to their reactions are pretty simple.
